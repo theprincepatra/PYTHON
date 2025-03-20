@@ -1,0 +1,7 @@
+a = int(input("Enter the 1st number: "))
+
+b = int(input("Enter the 2nd number: "))
+
+print("is a is greater than b ? ", a>b)
+print("is a is less than b ? ", a<b)
+print("is a is equals to b ? ", a==b)
