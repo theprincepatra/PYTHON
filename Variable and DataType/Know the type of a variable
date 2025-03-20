@@ -1,0 +1,7 @@
+a = input("Enter something ")
+
+print(type(a))  # as a is a string var so its type is <clas 'str'>
+
+b = int(input("Enter something: "))
+
+print(type(b))  # as b is a int var so its type is <clas 'int'>
