@@ -1,0 +1,5 @@
+import emoji  # Importing the emoji library
+
+print(emoji.emojize("I love Python! :snake:"))  # 🐍
+print(emoji.emojize("Hello, world! :earth_americas:"))  # 🌎
+print(emoji.emojize("Hello, world! :smile:"))  # 😀
