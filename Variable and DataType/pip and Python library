@@ -1,6 +1,8 @@
 pip install emoji  # installs the emoji library, in the terminal
 
 
+# code starts from here.....
+
 import emoji  # Importing the emoji library
 
 print(emoji.emojize("I love Python! :snake:"))  # 🐍
