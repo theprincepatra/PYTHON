@@ -1,0 +1,12 @@
+name = "TPP"
+len(name)       # --> 3, Length function retuns length of the stirng
+name.endswith("P")     # function that check whether it is ending with that letter then it will return value in boolean form
+name.count("P")       # helps to count the letter in the string, gives ouput
+name.capitalize()      # capitalize the first letter
+name.title()         # Capitalizes the first letter of each word
+name.upper()        # capitalize everything
+name.lower()       # convert to the lower case
+name.replace("TPP", "PP")      # replace word with the given word
+name.find("TPP")       # Returns the index of the first occurrence of substring, or -1 if not found
+name.isdigit()        # Returns True if all characters are digits
+name.swapcase()      # Swaps uppercase to lowercase and vice versa
