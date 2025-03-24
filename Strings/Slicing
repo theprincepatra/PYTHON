@@ -1,0 +1,18 @@
+# A String in python can be sliced for getting part of the string.
+# Let there is a string.... 
+name = "PRINCE"   # length=6-->len(name)
+
+# Syntax:   Stringname[ind_strt: ind_end]   here last index is not included, it is lat_ind-1
+
+print(name[0:3])   # --->  "PRI"
+print(name[2:6])   # --->  "INCE"
+print(name[:4])   # --->  "PRIN"
+print(name[3:])   # --->   "NCE"
+
+# for index in negative: 
+print(name[-1, -5])    # --->  "PRINCE"
+print(name[-3, -4])    # --->   "RIN"
+
+# slicing with skip vlalues: 
+print(name[0:7:2])   #  --->   "PIC"  
+print(name[1:6:3])   #  --->   "RC"  
