@@ -1,0 +1,6 @@
+A sequence of the character after the backslash " \ "
+\n --> new line
+\t --> tab
+\' --> single quote
+\" --> double quote
+\\ --> bcakslash
