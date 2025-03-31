@@ -1,4 +1,4 @@
-Welcome to Learning Python! This repository features Python code snippets and examples covering fundamental concepts, including data types, collections, functions, recursion, object-oriented programming (OOP), and more.
+Welcome to Learning Python! <br>This repository features Python code snippets and examples covering fundamental concepts, including data types, collections, functions, recursion, object-oriented programming (OOP), and more.
 
 📌 Topics Covered:
 
