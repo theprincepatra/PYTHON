@@ -1,4 +1,5 @@
 a = int(input("Enter the number: "))
 
+
 print("Square of the number: ", a**2)  # a to the power 2
 print("Square of the number: ", a*a)
