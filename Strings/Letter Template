@@ -1,0 +1,6 @@
+# letter template
+letter = ''' Dear <|Name|>,
+            Your are selected
+            <|Date|>'''
+
+print(letter.replace("<|Name|>", "TPP").replace("<|Date|>", "24 September 2050"))
