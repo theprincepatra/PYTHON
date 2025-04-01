@@ -2,7 +2,9 @@
 # Let there is a string.... 
 name = "PRINCE"   # length=6-->len(name)
 
+
 # Syntax:   Stringname[ind_strt: ind_end]   here last index is not included, it is lat_ind-1
+
 
 print(name[0:3])   # --->  "PRI"
 print(name[2:6])   # --->  "INCE"
