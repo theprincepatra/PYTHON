@@ -1,10 +1,10 @@
 name = "Prince is a coder"
-print(name.find("  "))
 
+print(name.find("  "))
 # display -1 if not found
 
 
 name = "Prince is  a coder"
-print(name.find("  "))
 
+print(name.find("  "))
 # display index, if found
