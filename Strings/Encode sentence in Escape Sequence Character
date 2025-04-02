@@ -1,0 +1,10 @@
+name = "Prince is from balangir"
+print(name)
+name = "Prince\tis from\nbalangir"
+print(name1)
+
+
+intro = "This is TPP and I like copding"
+print(intro)
+intro1 = "This is \"TPP\"\tand\tI like \'copding\'"
+print(intro1)
